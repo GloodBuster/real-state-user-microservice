@@ -1,4 +1,4 @@
-# Real State Admin Microservice
+# Real State User Microservice
 
 This is a backend microservice for the real-state app, specifically for the user module. It is built using Express and TypeScript.
 
