@@ -10,7 +10,7 @@ This is a backend microservice for the real-state app, specifically for the user
 
    ```sh
    git clone https://github.com/GloodBuster/real-state-user-microservice.git
-   cd real-state-admin-microservice
+   cd real-state-user-microservice
    ```
 
 2. Install dependencies using pnpm:
